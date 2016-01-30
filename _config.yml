@@ -1,0 +1,28 @@
+name: aaronlife
+favicon: null
+layout_spectrum: 0.4845228272024542
+typography_spectrum: 0.6715533975511789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.17284929798915982
+  lightness: 0.42501927469857037
+  saturation: 0.4077824018895626
+  rhythmicContrast: 0.4071490801870823
+purpose: []
